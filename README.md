@@ -74,3 +74,16 @@ nltk.download('punkt')
 ```
 
 ## Project Structure
+
+```
+multi-method-data-analysis-with-python/
+├── Q1.ipynb          # Customer review sentiment analysis
+├── Q2.ipynb          # Franchise network analysis
+├── Q3.ipynb          # Hiring data integration
+├── data/             # Input Excel files (not included)
+└── README.md
+```
+
+## Author
+
+Nusrat
